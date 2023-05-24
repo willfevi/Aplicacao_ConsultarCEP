@@ -3,7 +3,7 @@ Esse sistema CRUD foi desenvolvido com foco em fundamentos de programação estr
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/Captura de tela 2023-05-24 183840.png" width="700px" img src="/Captura de tela 2023-05-24 183920.png" width="700px">&emsp;
+<img src="/Captura de tela 2023-05-24 183840.png" width="700px"><img src="/Captura de tela 2023-05-24 183920.png" width="700px">&emsp;
 ## Tecnologias
 * C
 * Criação de arquivos em binário
